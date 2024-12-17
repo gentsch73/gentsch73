@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I am currently a first year student at Sakarya University Computer Engineering Department.
+## I am interested in computer graphics and machine learning.
 <!--
 **gentsch73/gentsch73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
